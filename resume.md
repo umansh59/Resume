@@ -11,3 +11,9 @@ Allen Career Institute , Chandigarh https://www.allen.ac.in/chandigarh/
 Sidhu Memorial school, Sheron https://www.sidhumemorialschoolsheron.in/
 
 CHITKARA UNIVERSITY INSTITUTE OF ENGINEERING & TECHNOLOGY (CUIET) https://www.chitkara.edu.in/engineering/colleges-punjab-chandigarh
+
+## Research Interest 
+
+Cybersecurity
+A.I.
+Machine Learning
